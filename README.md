@@ -2,7 +2,7 @@
 
 ## Images
 
-[![AI-Youtube-Shorts-Generator](https://opengraph.githubassets.com/1/https://github.com/SaarD00/AI-Youtube-Shorts-Generator)](https://www.swifttechco.com)
+[![AI-Youtube-Shorts-Generator](https://opengraph.githubassets.com/1/SaarD00/AI-Youtube-Shorts-Generator)](https://www.swifttechco.com)
 
 
 [![Views](https://komarev.com/ghpvc/?username=SaarD00-AI-Youtube-Shorts-Generator&style=for-the-badge&color=blue)](https://www.swifttechco.com)
