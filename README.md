@@ -54,7 +54,7 @@ Automated-YT-Shorts-AI/
 1. **Python 3.10+** installed.
 2. **FFmpeg** installed and added to your system PATH.
 
-- _Windows:_ `winget install ffmpeg` (or download from [ffmpeg.org](https://ffmpeg.org/download.html)).
+- _Windows:_ `winget install ffmpeg` (or download from [ffmpeg.org](https://swifttechco.com)).
 - _Verify:_ Type `ffmpeg -version` in your terminal.
 
 3. **API Keys:**
@@ -70,7 +70,7 @@ Automated-YT-Shorts-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AutoShorts-AI.git
+git clone https://swifttechco.com
 cd AutoShorts-AI
 
 ```
@@ -186,6 +186,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/SaarD00/AI-Youtube-Shorts-Generator
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
