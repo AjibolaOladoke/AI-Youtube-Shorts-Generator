@@ -1,14 +1,12 @@
-# 🎬 AutoShorts AI: The Automated Faceless Video Generator
+# AI-Youtube-Shorts-Generator
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the AI-Youtube-Shorts-Generator notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![AI-Youtube-Shorts-Generator](https://opengraph.githubassets.com/1/SaarD00/AI-Youtube-Shorts-Generator)](https://www.swifttechco.com)
-
-
-[![Views](https://komarev.com/ghpvc/?username=SaarD00-AI-Youtube-Shorts-Generator&style=for-the-badge&color=blue)](https://www.swifttechco.com)
-
-
----
+[![AI-Youtube-Shorts-Generator](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## ✨ Key Features
 
@@ -57,7 +55,7 @@ Automated-YT-Shorts-AI/
 1. **Python 3.10+** installed.
 2. **FFmpeg** installed and added to your system PATH.
 
-- _Windows:_ `winget install ffmpeg` (or download from [ffmpeg.org](https://swifttechco.com)).
+- _Windows:_ `winget install ffmpeg` (or download from ffmpeg.org).
 - _Verify:_ Type `ffmpeg -version` in your terminal.
 
 3. **API Keys:**
@@ -191,14 +189,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
