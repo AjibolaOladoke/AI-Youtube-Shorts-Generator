@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![AI-Youtube-Shorts-Generator](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![AI-Youtube-Shorts-Generator](images/preview.png)](https://github.com/Swift-Tech-Co/AI-Youtube-Shorts-Generator)
 
 ## ✨ Key Features
 
@@ -71,7 +71,7 @@ Automated-YT-Shorts-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://swifttechco.com
+git clone https://github.com/Swift-Tech-Co/AI-Youtube-Shorts-Generator
 cd AutoShorts-AI
 
 ```
@@ -193,13 +193,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/AI-Youtube-Shorts-Generator
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
